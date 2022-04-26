@@ -103,7 +103,7 @@ cv2.waitKey(0)
 ![Screenshot (21)](https://user-images.githubusercontent.com/75234807/164191830-533ff8ad-2c2a-4408-8309-549f44f11533.png)
 
 ### ii) HSV to RGB and BGR
-![Uploading Screenshot (22).png…]()
+![Screenshot (22)](https://user-images.githubusercontent.com/75234807/165232773-e5eecf9e-187f-4065-a466-30840a800bfe.png)
 
 ### iii) RGB and BGR to YCrCb
 ![Screenshot (23)](https://user-images.githubusercontent.com/75234807/164192121-76226930-885f-4296-80fc-a71580f823ff.png)
