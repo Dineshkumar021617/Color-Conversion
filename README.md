@@ -42,8 +42,8 @@ cv2.merge((h,s,v))
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By: Dineshkumar S
+# Register Number: 212220230012
 # i) Convert BGR and RGB to HSV and GRAY
 import cv2
 pic=cv2.imread('hot air baloon.jpg')
